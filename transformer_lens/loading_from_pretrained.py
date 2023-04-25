@@ -11,6 +11,7 @@ import re
 
 # %% The model names used to access the models on the HuggingFace Hub.
 OFFICIAL_MODEL_NAMES = [
+    "moyix/csrc_774m",
     "gpt2",
     "gpt2-medium",
     "gpt2-large",
